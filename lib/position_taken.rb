@@ -1,1 +1,1 @@
-def position_taken?(int)
+def position_taken?
