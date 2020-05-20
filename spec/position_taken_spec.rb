@@ -1,8 +1,8 @@
 require_relative '../lib/position_taken.rb'
 
 def position_taken(input)
+  position(input)="X" || position_taken(input)= "O" 
   
-
 describe '#position_taken? in lib/position_taken.rb' do
   it 'accepts a board and the index to check as arguments' do
     board = []
