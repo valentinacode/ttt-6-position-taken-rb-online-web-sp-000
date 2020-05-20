@@ -1,1 +1,0 @@
-def position_taken?(input)
